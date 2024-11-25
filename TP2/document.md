@@ -1,4 +1,4 @@
-O **Intel Core M**, lançado em 2014, é uma linha de processadores desenvolvida para dispositivos móveis, como laptops ultrafinos e tablets. Este processador é conhecido pela sua eficiência energética e foi o primeiro a usar a microarquitetura Broadwell, baseada no processo de fabricação de 14 nm. Aqui está um resumo detalhado das suas características:
+O **Intel Core M**, lançado em 2014, é uma linha de processadores desenvolvida para dispositivos móveis, como laptops ultrafinos e tablets. Este processador é conhecido pela sua eficiência energética e foi o primeiro a usar a microarquitetura Broadwell, baseada no processo de fabricação de 14 nm.
 
 ### **Principais Características**
 - **Fabricante:** Intel.
